@@ -11,7 +11,6 @@ For conflict tests from branch
 For conflict test from master
 
 
-New changes
 
 
 
