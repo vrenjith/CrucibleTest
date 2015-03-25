@@ -14,4 +14,4 @@ For conflict test from master
 Git fusion demo
 
 
-
+For conflict from branch
